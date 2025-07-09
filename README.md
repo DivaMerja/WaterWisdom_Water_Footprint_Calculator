@@ -1,4 +1,4 @@
-#  Water Footprint Calculator & Awareness website
+#  Water Footprint Calculator & Awareness Website
 
 > An interactive web platform to help users measure, understand, and reduce their daily water consumption.
 
